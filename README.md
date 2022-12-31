@@ -29,7 +29,9 @@
  <br>
  
 
-<div align=center><h4>Go to blog</h4></div>
+<h4>Go to blog</h4>
+ 
 [기술 블로그](https://leepeace.tistory.com/)
+ 
 <br> 
 </div>
