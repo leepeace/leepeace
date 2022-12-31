@@ -29,7 +29,8 @@
  <br>
  
 
-<div align=center><h4>기술 블로그 주소</h4></div>
-">"[기술 블로그](https://leepeace.tistory.com/)
+<div align=center><h4>![image](https://user-images.githubusercontent.com/44861558/210127662-46df9b2a-7e91-49e8-ad3a-05676acd7c32.png)
+기술 블로그 주소</h4></div>
+[기술 블로그](https://leepeace.tistory.com/)
  
 </div>
