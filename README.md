@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=backendprogrammer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
@@ -23,5 +23,11 @@
 <br>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leepeace&layout=compact&theme=tokyonight)
+
+ <br>
+ <br>
+ <br>
+ 
+ 기술 블로그 주소 : https://leepeace.tistory.com/
  
 </div>
