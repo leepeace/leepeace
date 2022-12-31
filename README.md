@@ -28,6 +28,6 @@
  <br>
  <br>
  
- 기술 블로그 주소(https://leepeace.tistory.com/)
+ [기술 블로그 주소](https://leepeace.tistory.com/)
  
 </div>
