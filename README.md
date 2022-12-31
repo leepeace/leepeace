@@ -30,6 +30,6 @@
  
 
 <div align=center><h4>기술 블로그 주소</h4></div>
- > [기술 블로그](https://leepeace.tistory.com/)
+">"[기술 블로그](https://leepeace.tistory.com/)
  
 </div>
