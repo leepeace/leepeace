@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Jira-0058CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="JiraSoftware"/>
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
- 
+<img src="https://img.shields.io/badge/Jenkins-2496ED?style=for-the-badge&logo=Jenkins&logoColor=white"/>  
 <br>
 <br>
 <br>
