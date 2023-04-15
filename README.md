@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0058CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="JiraSoftware"/>
 <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
  
 <br>
 <br>
