@@ -31,6 +31,8 @@
  <br>
  <br>
  
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=2haemin)](https://solved.ac/2haemin/)
 
 <h4>Go to blog</h4>
  
